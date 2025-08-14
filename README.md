@@ -1,7 +1,8 @@
 # 🌡️ DHT22 Data Logger
 
 Temperature and humidity monitoring system using **Arduino** and **DHT22**, sending data to **Python** and saving it in **CSV** format for later analysis using **Pandas**.
-
+---
+# ⚙️ Work In Progress...
 ## 📌 Features
 - Real-time temperature and humidity readings
 - Arduino ↔ Python communication via serial port
