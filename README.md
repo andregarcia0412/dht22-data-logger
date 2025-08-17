@@ -39,6 +39,3 @@ Arduino (DHT22) → Serial → Python → CSV → Pandas → Graphs
 2. Run the script data_collect.py to collect temperature and humidity data.
 
 3. Run the script data_analysis.py to generate graphs and statistics.
-
-## 📜 License
-This project is licensed under the MIT License. Feel free to use and modify it.
